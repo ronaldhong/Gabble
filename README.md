@@ -4,11 +4,11 @@
 Fullstack Twitter-like page (Mongoose, Node.js, Express, Mustache)
 <br/>
 To Run: <br/>
-  git clone <URL> <br/>
-  run npm install <br/>
-  (in Command line) type: node app.js <br/>
+  git clone URL <br/>
+  (in Command line)type: npm install <br/>
+  (in Command line)type: node app.js <br/>
   go to "http://localhost:5000/"
-  
+
 ---
 ## ScreenShot
 ---
